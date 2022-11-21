@@ -1,0 +1,7 @@
+git status
+git add -- all
+git commit -m "<some commit>"
+git reflog 
+git branch -m newbranchname
+git push origin --delete :somebranch
+git branch -d branchname
